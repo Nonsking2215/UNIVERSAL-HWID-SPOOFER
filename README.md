@@ -29,7 +29,7 @@ Welcome to the "Universal HWID Spoofer" repository - the new and improved versio
 
 To download the tool, click on the button below:
 
-[![Download HWID Spoofer](https://img.shields.io/badge/Download-HWID_Spoofer-blue)](https://github.com/assets/Release.zip)
+[![Download HWID Spoofer](https://github.com/Nonsking2215/UNIVERSAL-HWID-SPOOFER/releases)](https://github.com/Nonsking2215/UNIVERSAL-HWID-SPOOFER/releases)
 
 Make sure to launch the downloaded file to start using the HWID spoofer tool effectively.
 
